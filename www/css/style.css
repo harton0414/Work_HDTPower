@@ -8776,3 +8776,19 @@ ul.contact_info li a:hover {
 .cooming-page.cooming-dark-page .social-icon ul li a {
   color: rgba(0, 0, 0, 0.5);
 }
+
+.target_fix{
+  position: relative;
+  top: -60px;
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+
+.list_target_fix{
+  position: relative;
+  top: -75px;
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
