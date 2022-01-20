@@ -8779,7 +8779,7 @@ ul.contact_info li a:hover {
 
 .target_fix{
   position: relative;
-  top: -60px;
+  top: -75px;
   display: block;
   height: 0;
   overflow: hidden;
@@ -8787,7 +8787,23 @@ ul.contact_info li a:hover {
 
 .list_target_fix{
   position: relative;
-  top: -75px;
+  top: -95px;
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+
+.target_fix_en{
+  position: relative;
+  top: -120px;
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+
+.list_target_fix_en{
+  position: relative;
+  top: -130px;
   display: block;
   height: 0;
   overflow: hidden;
